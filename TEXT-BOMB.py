@@ -31,7 +31,7 @@ def function():
 
 def Spam():
     value = 0
-    banner = figlet_format("MSG-BOMB", font = "slant")
+    banner = figlet_format("TEXT-BOMB", font = "slant")
     print(Fore.LIGHTCYAN_EX + banner + Fore.RESET)
     info_author()
 
