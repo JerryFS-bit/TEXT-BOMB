@@ -1,3 +1,7 @@
+#
+## Created by: JerryFS-bit
+#
+
 import pyautogui
 import time
 from colorama import Fore
